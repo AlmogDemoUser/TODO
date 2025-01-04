@@ -1,6 +1,5 @@
 
 
-```markdown
 # Todo App - README
 
 This is a basic Todo App built with React for the frontend and C# (.NET Core) for the backend. Follow the instructions below to set up the environment and run the project locally.
